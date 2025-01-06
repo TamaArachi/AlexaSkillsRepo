@@ -1,6 +1,6 @@
 # AlexaSkillsRepo
 
-Created a custom alexa skill called chat demo that makes a synchronous invocation to the OPENAI API using an API Key.
+Created a custom alexa skill called chat demo that makes a synchronous invocation to the ChatGPT API using an API Key.
 
 Invocation Name
 chat demo
